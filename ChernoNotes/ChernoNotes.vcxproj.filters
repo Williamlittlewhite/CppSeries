@@ -126,6 +126,9 @@
     <ClCompile Include="src\49.C++中使用库.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\50.c++使用动态库.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\6EndBrace.h">
