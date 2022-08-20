@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cb1df93-e930-4887-a1c3-e88fff062163": {
+      "ProjectGuid": "1cb1df93-e930-4887-a1c3-e88fff062163",
+      "DisplayName": "Engine",
+      "ColorIndex": 0
+    },
+    "55d7b1af-aa72-4aea-985f-5a58dfc437fe": {
+      "ProjectGuid": "55d7b1af-aa72-4aea-985f-5a58dfc437fe",
+      "DisplayName": "Game",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
