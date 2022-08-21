@@ -1,2 +1,0 @@
-﻿  49.C++中使用库.cpp
-F:\Dev\CppSeries\ChernoNotes\src\49.C++中使用库.cpp(2,9): fatal error C1083: 无法打开包括文件: “GLFW/glfw3.h”: No such file or directory
